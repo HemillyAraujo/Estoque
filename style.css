@@ -1,0 +1,26 @@
+body {
+    background-image: url("armazens-e-logistica-10.jpg");
+    background-repeat: no-repeat; 
+    background-size: cover;
+    display: flex;
+    display: flex;
+    align-items: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.container {
+    width: 100%;
+    padding: 40px;
+    box-sizing: border-box;
+    opacity: 0.8;
+}
+
+.card {
+    background-color: white;
+    padding: 30px;
+    border-radius: 0px;
+}
+
+button:hover {
+    background-color: grey;
+}
